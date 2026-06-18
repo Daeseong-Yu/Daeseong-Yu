@@ -29,8 +29,8 @@ A result-driven Software Engineer with 9+ years of experience building scalable 
 ### 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=tokyonight&include_all_commits=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=tokyonight&langs_count=6" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Daeseong-Yu&show_icons=true&theme=tokyonight&include_all_commits=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daeseong-Yu&layout=compact&theme=tokyonight&langs_count=6" height="150" />
 </p>
 
 ---
