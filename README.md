@@ -1,38 +1,112 @@
-# Hi there, I'm Dennis (Daeseong) 👋
+# Dennis (Daeseong) Yu
 
-### 🚀 Senior Software Engineer | Backend & Cloud Infrastructure
+### Senior Software Engineer | AWS Serverless | Production Reliability
 
-A result-driven Software Engineer with 9+ years of experience building scalable backend architectures and dynamic web applications. Currently focused on modernizing cloud-native services and developing tracking systems in Canada.
+I'm a production-focused Software Engineer with 9+ years of experience building, modernizing, and supporting backend systems for cloud-based services and real-time operational environments.
 
----
-
-### 🛠️ Tech Stack
-
-**Backend & Systems**
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
-
-**Cloud & Infrastructure**
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
-
-**Frontend Development**
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
+My work has focused on backend API development, AWS serverless modernization, system integration, troubleshooting live production issues, and improving operational visibility. I enjoy building practical systems that are reliable, observable, and maintainable.
 
 ---
 
-### 📂 What I'm Working On
+## 🛠️ Tech Stack
 
-* 🇨🇦 **Canadian Immigration Tracker** A full-stack web application tracking Express Entry & OINP draws. Built with a scalable **Go + AWS Serverless** backend and a responsive **Vite + React** frontend.
-* 📈 **Monthly Goal Tracker** A personal performance system designed to streamline monthly objectives and optimize backend data flow.
+### Languages
+
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/> 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> 
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/> 
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+
+### Backend & APIs
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/> 
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white"/> 
+<img src="https://img.shields.io/badge/REST_API-005571?style=flat-square"/>
+
+### Cloud & DevOps
+
+<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/> 
+<img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/> 
+<img src="https://img.shields.io/badge/SQS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white"/> 
+<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> 
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+
+### Databases & Monitoring
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+
+## 📂 Featured Projects
+
+### 🇨🇦 [Canadian Immigration Tracker](https://draw-tracker.nomaduub.com)
+
+A full-stack web application for tracking Canadian immigration draw data, including Express Entry and OINP draw information.
+
+This project is designed to provide structured draw tracking, historical visibility, and a practical user interface for reviewing immigration-related trends.
+
+**Tech Stack**
+
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/> 
+<img src="https://img.shields.io/badge/AWS_Serverless-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/> 
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+
+**What this project demonstrates**
+
+* Backend API design with Go
+* AWS serverless-oriented architecture
+* Public data tracking and structured data modeling
+* Responsive frontend development with React and Vite
+* Practical product thinking around real user needs
 
 ---
 
-### 📊 GitHub Analytics
+### 📈 [Monthly Goal Tracker](https://goaltracker.nomaduub.com)
+
+A full-stack goal-tracking service designed to help users manage monthly goals, daily progress, and performance review history.
+
+This project focuses on building a practical production-style application with authentication, backend API structure, database-backed goal management, and automated deployment workflow.
+
+**Tech Stack**
+
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white"/> 
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> 
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> 
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+
+**What this project demonstrates**
+
+* Full-stack application development
+* REST API design and backend structure
+* PostgreSQL-backed data modeling
+* Authentication and user-focused workflow
+* GitHub Actions-based deployment automation
+* AI-assisted agentic development workflow with developer-led architecture decisions
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daeseong-Yu&show_icons=true&theme=tokyonight&include_all_commits=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daeseong-Yu&layout=compact&theme=tokyonight&langs_count=6" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Daeseong-Yu&show_icons=true&theme=tokyonight&include_all_commits=true" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daeseong-Yu&layout=compact&theme=tokyonight&langs_count=6" height="155" />
 </p>
 
 ---
 
-📫 **How to reach me:** [Your LinkedIn Profile] | [Your Email]
+## 📫 Contact
+
+* LinkedIn: [linkedin.com/in/daeseong-yu](https://www.linkedin.com/in/daeseong-yu)
