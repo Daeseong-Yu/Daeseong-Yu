@@ -25,7 +25,7 @@ My work has focused on backend API development, AWS serverless modernization, sy
 ## Featured Projects
 
 ### Canadian Immigration Tracker
-[Demo](https://draw-tracker.nomaduub.com)
+<a href="https://draw-tracker.nomaduub.com" target="_blank" rel="noopener noreferrer">Demo</a>
 
 A full-stack web application for tracking Canadian immigration draw data, including Express Entry and OINP draw information.
 
@@ -45,7 +45,7 @@ This project is designed to provide structured draw tracking, historical visibil
 ---
 
 ### Monthly Goal Tracker
-[Demo](https://goaltracker.nomaduub.com)
+<a href="https://goaltracker.nomaduub.com" target="_blank" rel="noopener noreferrer">Demo</a>
 
 A full-stack goal-tracking service designed to help users manage monthly goals, daily progress, and performance review history.
 
